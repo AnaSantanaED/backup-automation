@@ -1,6 +1,6 @@
 # Backup Automation
 
-Este projeto automatiza a organiza backups.
+Este projeto automatiza a organização de backups.
 
 ## Funcionalidades
 - Lista todos os arquivos no diretório de origem.
